@@ -54,3 +54,7 @@ This project is a web-based application designed to facilitate circuit design an
 1. Clone the repository:
    ```sh
    git clone https://github.com/PATILYASHH/electronics-circuit-simulator.git
+
+join Discord - [Join](https://discord.gg/jyGZj5qq) 
+
+
