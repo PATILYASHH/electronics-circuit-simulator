@@ -58,3 +58,6 @@ This project is a web-based application designed to facilitate circuit design an
 join Discord - [Join](https://discord.gg/jyGZj5qq) 
 
 
+figma - [view](https://www.figma.com/design/mWocS4ygx7ldLyKIdrz73o/Untitled?node-id=0-1&t=wzikxfD25vYXiBxT-1)
+
+
