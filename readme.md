@@ -61,3 +61,11 @@ join Discord - [Join](https://discord.gg/jyGZj5qq)
 figma - [view](https://www.figma.com/design/mWocS4ygx7ldLyKIdrz73o/Untitled?node-id=0-1&t=wzikxfD25vYXiBxT-1)
 
 
+### Acknowledgments
+
+We extend our heartfelt thanks to everyone who has contributed to Electronics Circuit Simulator. Your support and contributions are invaluable to the success of this project. ❤️
+
+<a href="https://github.com/PATILYASHH/electronics-circuit-simulator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PATILYASHH/electronics-circuit-simulator" />
+</a>
+
