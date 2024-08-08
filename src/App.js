@@ -53,8 +53,16 @@ function App() {
          <div className="flex border-2 justify-center bg-black text-white border-white h-full w-[10%] rounded-r-lg mt-1 mb-1 hover:bg-white hover:text-black">
           f
          </div>
-         <div className="flex border-2 justify-center bg-black text-white border-white ml-4 h-full w-[10%] rounded-lg mt-1 mb-1 hover:bg-white hover:text-black">
+         <div className="relative flex border-2 justify-center bg-black text-white border-white ml-4 h-full w-[10%] rounded-lg mt-1 mb-1 hover:bg-white hover:text-black group">
           Tools
+          <div className="absolute top-full left-0 w-full bg-white text-black  mt-1 rounded-lg opacity-0 group-hover:opacity-100">
+           <a href="#" className="block px-4 py-2 border border-black  hover:bg-gray-200">AI Help</a>
+           <a href="#" className="block px-4 py-2 border border-black  hover:bg-gray-200">Export</a>
+           <a href="#" className="block px-4 py-2 border border-black  hover:bg-gray-200">Save</a>
+           <a href="#" className="block px-4 py-2 border border-black  hover:bg-gray-200">Restate</a>
+           <a href="#" className="block px-4 py-2 border border-black  hover:bg-gray-200">Share</a>
+           <a href="#" className="block px-4 py-2 border border-black  hover:bg-gray-200">Feedback</a>
+          </div>
          </div>
          <div className="flex border-2 justify-center text-white border-white ml-4 h-full w-[10%] rounded-l-lg mt-1 mb-1 hover:bg-white hover:text-black">
          c-
